@@ -3,4 +3,5 @@
 
 Features:
 - Sign in anonymously
+- Logout
 - show loading on request
